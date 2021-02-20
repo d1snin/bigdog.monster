@@ -1,0 +1,3 @@
+[submodule "media/AnimeLibrary"]
+	path = media/AnimeLibrary
+	url = https://github.com/d1snin/AnimeLibrary.git
