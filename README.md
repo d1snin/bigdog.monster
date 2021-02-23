@@ -1,2 +1,2 @@
 # just a picture of big dog.
-...and hude anime pictures library
+...and huge anime pictures library
