@@ -829,9 +829,3 @@ var lib = [
 "../AnimeLibrary/random/9956.jpg?raw=true",
 "../AnimeLibrary/random/UV9Ld.png?raw=true"
 ]
-  
-  module.exports = function() {
-    return lib[Math.floor(Math.random() * lib.length)]
-  }
-  
-  module.exports.lib = lib
