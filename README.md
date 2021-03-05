@@ -1,2 +1,1 @@
-# just a picture of big dog.
-...and huge anime pictures library
+# A picture of big dog and anime pictures library
